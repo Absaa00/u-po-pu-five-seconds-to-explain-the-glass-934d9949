@@ -1,0 +1,12 @@
+# Build outputs for the five-seconds glass entry
+/output/
+/tmp/mf-glass-*/
+*.pyc
+__pycache__/
+.pytest_cache/
+# Local scratch from verification runs
+run1/
+run2/
+# Editor leftovers
+.vscode/
+*.swp
